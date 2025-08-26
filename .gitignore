@@ -1,10 +1,12 @@
 #this is gitignore.
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# This setup ignores all extension-less (NoExtension) files.
 *
 !/**/
 !*.*
 
+# This is basically useless but stiil here.
 
 *.h
 *.exe
