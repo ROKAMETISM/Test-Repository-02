@@ -11,3 +11,5 @@ And I actually learned how to connect my Codespace instance with my repository! 
 I also learned to configure .gitignore so that the compiled executable files are not tracked by git. This keeps my repository clean and focused on source code. 
 
 I learned to edit tasks.json so that I can run my C++ code directly from the Codespace terminal. This makes development faster and more efficient. I basically set up the cppbuild task to create the executable compiled cpp file in the main directory instead of the source directory.
+
+I installed Live Server VSCode Extension to view live preview of my out.html file. I learned to make a basic HTML file named out.html and linked it with style.css. I'm planning to use this HTML file to visuallize anything I do with my main.cpp.
