@@ -17,3 +17,5 @@ I installed Live Server VSCode Extension to view live preview of my out.html fil
 ## What am I doing now? 2025-08-26
 
 I made a new cpp source called chess.cpp. I will make a cpp program that I can use to play chess using standard chess notations as input. I aim to learn about cpp and OOP during this practice.
+
+I'm using https://cplusplus.com/doc/tutorial/templates/ as my source material for learning. I read Classes I and I will read Classes II tommorow.
