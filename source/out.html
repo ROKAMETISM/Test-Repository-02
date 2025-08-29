@@ -3,7 +3,7 @@
 <body>
 <h1>HTML5 Canvas</h1>
 
-<canvas id="myCanvas" width="200" height="100" style="border:1px solid black;">
+<canvas id="myCanvas" width="512" height="512" style="border:1px solid black;">
 Sorry, your browser does not support canvas.
 </canvas>
 
@@ -11,12 +11,19 @@ Sorry, your browser does not support canvas.
 const canvas = document.getElementById("myCanvas");
 const ctx = canvas.getContext("2d");
 ctx.beginPath();
-ctx.moveTo(20, 20);
-ctx.lineTo(20, 100);
-ctx.lineTo(70, 100);
+ctx.moveTo(256, 16);
+ctx.lineTo(101.731, 72.1493);
+ctx.lineTo(19.6461, 214.324);
+ctx.lineTo(48.1539, 376);
+ctx.lineTo(173.915, 481.526);
+ctx.lineTo(338.085, 481.526);
+ctx.lineTo(463.846, 376);
+ctx.lineTo(492.354, 214.324);
+ctx.lineTo(410.269, 72.1493);
+ctx.lineTo(256, 16);
+ctx.closePath();
+ctx.strokestyle = 'black';
 ctx.stroke();
 </script>
-
 </body>
 </html>
-
