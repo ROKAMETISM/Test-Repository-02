@@ -19,3 +19,7 @@ I installed Live Server VSCode Extension to view live preview of my out.html fil
 I made a new cpp source called chess.cpp. I will make a cpp program that I can use to play chess using standard chess notations as input. I aim to learn about cpp and OOP during this practice.
 
 I'm using https://cplusplus.com/doc/tutorial/templates/ as my source material for learning. I read Classes I and I will read Classes II tommorow.
+
+## What am I doing now? 2025-08-29
+
+I implemented drawing n-number polygon on a HTML file. I learned to use fstream and HTML Canvas. I created a file called htmlTemplate.ini to store basic HTML structure so that I can always recreate the intended out.html file.
