@@ -23,3 +23,16 @@ I'm using https://cplusplus.com/doc/tutorial/templates/ as my source material fo
 ## What am I doing now? 2025-08-29
 
 I implemented drawing n-number polygon on a HTML file. I learned to use fstream and HTML Canvas. I created a file called htmlTemplate.ini to store basic HTML structure so that I can always recreate the intended out.html file.
+
+
+## What am I doing now? 2025-08-31
+
+https://docs.godotengine.org/en/stable/getting_started/introduction/key_concepts_overview.html
+
+https://gameprogrammingpatterns.com/observer.html
+
+https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_advanced.html
+
+https://gdquest.github.io/learn-gdscript/?ref=godot-docs#course/lesson-1-what-code-is-like/lesson.tres
+
+https://github.com/fenix-hub/godot-engine.github-integration
