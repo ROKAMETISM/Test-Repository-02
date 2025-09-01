@@ -29,7 +29,7 @@ I implemented drawing n-number polygon on a HTML file. I learned to use fstream 
 
 https://godotengine.org/download/windows/
 
-https://docs.godotengine.org/en/stable/getting_started/step_by_step/index.html
+https://docs.godotengine.org/en/stable/getting_started/step_by_step/scripting_languages.html
 
 https://gameprogrammingpatterns.com/observer.html
 
