@@ -27,6 +27,8 @@ I implemented drawing n-number polygon on a HTML file. I learned to use fstream 
 
 ## What am I doing now? 2025-08-31
 
+https://godotengine.org/download/windows/
+
 https://docs.godotengine.org/en/stable/getting_started/introduction/key_concepts_overview.html
 
 https://gameprogrammingpatterns.com/observer.html
